@@ -29,7 +29,7 @@ Libraries/Frameworks:
 ![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=F2F4F9)
 ![Pandas](https://img.shields.io/badge/pandas-316192?style=for-the-badge&logo=pandas&logoColor=white)
 ![OPENAI](https://img.shields.io/badge/openaiapi-%2300000a.svg?style=for-the-badge&logo=openai&logoColor=F2F4F9)
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 
 Developer Tools: 
