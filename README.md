@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Batu Taskan</h1>
 
 # 💫 About Me:
-I am a seconf-year computer engineering student at Politecnico di Torino, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a second-year computer engineering student at Politecnico di Torino, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
