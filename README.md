@@ -6,8 +6,8 @@ I am a second-year computer engineering student at Politecnico di Torino, passio
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Data Analytics and Quantiative projects
-- Currently building OneWay -> your Eurotrip assistant
+- 💻 Building Data Analytics & Quantiative projects and Automations Softwares
+
   
 
 
