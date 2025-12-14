@@ -4,7 +4,7 @@
 <h1 align="center">⚡ BATU 🌃</h1>
 <h3 align="center">TORINO</h3>
 
-- 🔭 I’m currently working machine learning & financial payments !!
+- 🔭 I’m currently not working!!
 
 - 🌱 I’m currently learning DSA in C.
 
