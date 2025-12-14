@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning DSA in C.
 
-- 👨‍💻  All of my projects are available <a href="https://github.com/batxdev0">@oljen</a>
+- 👨‍💻  All of my projects are available <a href="https://github.com/batxdev0">@batxdev0</a>
 
 
 <div align="center">
